@@ -1,0 +1,10 @@
+a{
+    text-decoration: none;
+    padding: 8px;
+}
+a:hover{
+    background-color: red;
+}
+body{
+    background-image: linear-gradient(to left, rgba(27, 20, 100,0.5),rgba(18, 203, 196,0.5))
+}
