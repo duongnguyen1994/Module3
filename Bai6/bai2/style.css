@@ -1,0 +1,49 @@
+*, *::after, *::before{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-size: 100%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    background-color: darkseagreen;
+}
+
+h5{
+    margin-left: 30px;
+    font-size: 40px;
+    color: rgb(2, 52, 55);
+}
+
+h4{
+    margin-left: 30px;
+    font-size: 30px;
+    color: darkcyan;
+}
+
+a{
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: 100;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.index{
+    margin-left: 20px;
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+pre{
+    font-size: 20px;
+}
+
+.content{
+    width: 700px;
+}
